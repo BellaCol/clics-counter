@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clics-counter/static/css/main.c546c81b.css",
+    "main.js": "/clics-counter/static/js/main.125d8da4.js",
+    "index.html": "/clics-counter/index.html",
+    "main.c546c81b.css.map": "/clics-counter/static/css/main.c546c81b.css.map",
+    "main.125d8da4.js.map": "/clics-counter/static/js/main.125d8da4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c546c81b.css",
+    "static/js/main.125d8da4.js"
+  ]
+}
